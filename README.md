@@ -41,7 +41,14 @@ This project focuses on detecting fraudulent credit card transactions using mach
 | Random Forest       | 99.9%    | 0.95    | 0.92      | 0.88   |
 | XGBoost             | 99.9%    | 0.95    | 0.93      | 0.91   |
 
-*Note: Numbers are hypothetical — replace with your actual results.*
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first.
+
+## License
+[MIT](LICENSE)
+
+## Contact
+Made with ❤️ by [Divyam Bansal](https://github.com/divyam-bansal-121)
 
 ## 📦 Tech Stack
 
